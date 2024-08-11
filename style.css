@@ -1,0 +1,102 @@
+html, body {
+/*  background-image: linear-gradient(to top right, rgba(229,235,237,1.0), rgba(232,235,240,1.0));*/
+}
+
+
+.grey-qo-regular {
+  font-family: "Grey Qo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.unna-regular {
+  font-family: "Unna", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.unna-bold {
+  font-family: "Unna", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.unna-regular-italic {
+  font-family: "Unna", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.unna-bold-italic {
+  font-family: "Unna", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+h1{
+  font-size: 6em;
+}
+
+
+.sub-1{
+  font-size: 3.6em;
+  line-height: 1em;
+  letter-spacing: 0.2em; 
+  margin: 0; 
+
+}
+
+.sub-2{
+  font-size: 5.2em;
+  line-height: 1em;
+  margin: 0;
+
+}
+
+
+.h-custom-cover {
+  max-height: 100%;
+  padding-bottom: 10rem;
+  padding-top: 10rem;
+}
+
+.hero-pic {
+  width: 100%;
+}
+
+hr {
+  border: 4px solid #B77A7A;
+  border-radius: 5px;
+  opacity: 1.0;
+}
+
+
+.card-pink {
+  background-color: rgba(143, 121, 121, 0.2);
+  backdrop-filter: blur(20px);
+}
+
+.card-white {
+  background-color: rgba(255, 255, 255, 0.4);
+  border: none;
+}
+
+.bg-custom-specialities {
+  margin: 0;
+  padding: 8rem;
+  background: url("img/choco-bg.jpg") no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+.bg-custom-choose {
+  background-color: #B77A7A;
+
+}
+
+footer {
+  background-color: rgba(143, 121, 121, 0.2);
+  letter-spacing: 0.1em;
+}
